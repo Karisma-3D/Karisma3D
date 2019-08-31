@@ -1,0 +1,7 @@
+
+    Select Create > Measure Tools > Distance Tool.
+    Click two points.
+
+    Maya creates two locators with a distance measurement. You can select and move the locators to edit the measurement.
+
+    If you snap a measurement locator to an object, the locator moves with the object.
