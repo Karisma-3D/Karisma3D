@@ -1,7 +1,7 @@
 
 [Listing Projets](https://github.com/Karisma-3D?tab=projects)
 
-[Wiki](https://github.com/Karisma-3D/Karisma3D/wiki/Index)
+[Wiki](https://github.com/Karisma-3D/Karisma3D/wiki)
 
 
 
